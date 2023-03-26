@@ -1,7 +1,10 @@
 {
     "info":[
         {
-            "id":"j1Po4czRehOWsrLpX1AMzn77OQ12",
+            "authList":[
+                "uhFIwO2JTnQEulZhCHtQHp8w6Y33",
+                "j1Po4czRehOWsrLpX1AMzn77OQ12"
+            ],
             "status":1
         }
     ]
